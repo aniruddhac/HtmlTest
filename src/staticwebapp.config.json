@@ -10,7 +10,7 @@
         "rewrite": "//error.html"
       },
       "404": {
-        "rewrite": "//error.html"
+        "rewrite": "/error.html"
       }
     }
   }
